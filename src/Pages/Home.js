@@ -60,7 +60,7 @@ const Home = () => {
 
             
             <div className='bg_color_change'>
-                <h2 style={{backgroundColor: (colr), color:'white'}}>background color change</h2>
+                <h2 style={{backgroundColor: (colr), color:'white'}}>backgroundd color change</h2>
                 <select onChange={(e) => handlecolorchange(e)}>
                     <option value="blue">blue</option>
                     <option value="red">Red</option>
